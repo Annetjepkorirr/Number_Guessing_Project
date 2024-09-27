@@ -1,0 +1,11 @@
+THE NUMBER GUESSING GAME!!!
+How the game works:
+
+1...Gameplay: You'll have 7 attempts to guess the randomly generated number between 1 and 100.
+After each guess, you'll receive feedback whether your guess was too low, too high, or correct.
+
+Features
+Random Number Generation: The game selects a random number each time you play.
+Limited Attempts: Players have a limited number of attempts (7) to increase the challenge.
+Feedback Mechanism: After each guess, players receive helpful feedback.
+Replay Option: Players can choose to play multiple rounds without restarting the program.
